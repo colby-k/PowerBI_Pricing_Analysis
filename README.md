@@ -82,6 +82,7 @@ Once the user clicks on the Pricing Exception (teal) section of the Pie Chart, t
 The other consideration in loan pricing is whether the loan source came from a referral source (House Account). The report shows the percentage of loans originated from House Account.
 
 ![House Account Loans](assets\loan_pricing_ha.png)
+*Note*
 
 # Conclusion
 Based on the analysis for the period of interest, when taken as a whole, the loan pricing is close to the target pricing of 100, however, as you dive into pricing exceptions and house accounts, which usually drive down loan pricing.
