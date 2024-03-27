@@ -71,17 +71,17 @@ ORDER BY PE.LoanNumber DESC, PE.SubmissionNumber DESC
 ### Main View
 The main view of the report shows the loan population for the period of interest. 
 
-![Loan Pricing Main](assets\loan_pricing_main.png)
+![Loan Pricing Main](assets/loan_pricing_main.png)
 
 ### Loans w/Pricing Exceptions
 Once the user clicks on the Pricing Exception (teal) section of the Pie Chart, the report filters to show the part of the total population, including the average loan pricing.
 
-![Loan Pricing PE](assets\loan_pricing_pes.png)
+![Loan Pricing PE](assets/loan_pricing_pes.png)
 
 ### House Account Loans
 The other consideration in loan pricing is whether the loan source came from a referral source (House Account). The report shows the percentage of loans originated from House Account.
 
-![House Account Loans](assets\loan_pricing_ha.png)
+![House Account Loans](assets/loan_pricing_ha.png)
 *Note*
 
 # Conclusion
